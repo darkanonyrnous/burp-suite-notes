@@ -11,11 +11,11 @@ Har bir fayl: tushuntirish + cheatsheet + amaliy misollar.
 
 | # | Mavzu |
 |---|-------|
-| 01 | 🔧 The Basics |
-| 02 | 🔁 Repeater |
-| 03 | 🎯 Intruder |
-| 04 | 🧰 Other Modules |
-| 05 | 🧩 Extensions |
+| 01 | [🔧 The Basics](bs01_the_basics.md) |
+| 02 | [🔁 Repeater](bs02_repeater.md) |
+| 03 | [🎯 Intruder](bs03_intruder.md) |
+| 04 | [🧰 Other Modules](bs04_other_modules.md) |
+| 05 | [🧩 Extensions](bs05_extensions.md) |
 
 ---
 
